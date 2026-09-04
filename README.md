@@ -4,6 +4,13 @@ O **Nikel** é uma aplicação web simples e funcional de controle financeiro de
 
 ---
 
+## 🔗 Acesso ao Projeto
+
+Você pode testar e utilizar a aplicação online acessando o link:
+👉 **[Nikel - Controle Financeiro](https://giovannaizac.github.io/Nikel/)**
+
+---
+
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML5**: Estrutura semântica das páginas.
@@ -30,13 +37,10 @@ O **Nikel** é uma aplicação web simples e funcional de controle financeiro de
 
 ```text
 nikel/
-├── public/          # Arquivos estáticos (HTML, CSS, JS e imagens)
-│   ├── css/         # Estilos da aplicação
-│   ├── js/          # Scripts de lógica e manipulação
-│   └── index.html   # Página principal / tela de login
+├── assets/          # Imagens e recursos estáticos
+├── css/             # Estilos da aplicação
+├── js/              # Scripts de lógica e manipulação
+├── index.html       # Página principal / tela de login
+├── home.html        # Dashboard principal
+├── transactions.html # Histórico de lançamentos
 └── README.md        # Documentação do projeto
-
-## 🔗 Acesso ao Projeto
-
-Você pode testar e utilizar a aplicação online acessando o link:
-👉 **[Nikel - Controle Financeiro](https://giovannaizac.github.io/Nikel/)**
